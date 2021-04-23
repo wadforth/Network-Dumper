@@ -8,3 +8,8 @@ The code is not up-to-scratch as this is a rough mock-up of what the final produ
 You can set a custom thread value within the code to speed up the scanning process, only use what your CPU can handle. I was supposed to create an input form within the GUI to adjust the threads used, but the time for the project was up and decided to move on...I may add to it a later date, who knows. 
 
 Use at your own risk.
+
+## Screenshots
+
+![Screenshot](img/tool1.png)
+![Screenshot](img/tool2.png)
